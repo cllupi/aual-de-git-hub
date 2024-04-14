@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0;   
+    color: black;
+    
+    font-family: 'Trebuchet MS';
+
+h1 {
+    color: blue;
+}
+h2 {
+    color: red;
+    font-size: 25px;
+}
+h3 {
+    color: green;
+}
+
+}
